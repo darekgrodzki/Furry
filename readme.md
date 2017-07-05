@@ -1,2 +1,4 @@
 
-Simple javascript game.
+Javascript game.
+
+ https://darekgrodzki.github.io/Furry/ 
